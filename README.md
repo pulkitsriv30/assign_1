@@ -1,4 +1,4 @@
-# assign_1
+# UCS654_assign_1
 ## Methodology
 
 ### Roll-Number-Dependent Nonlinear Mapping
